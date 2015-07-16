@@ -1,0 +1,19 @@
+{
+  "name": "statuspage-incident-remover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "coffee index.coffee"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "lodash": "^3.10.0",
+    "request": "^2.58.0",
+    "statuspage-api": "^0.4.0"
+  }
+}
